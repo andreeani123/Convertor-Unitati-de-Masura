@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1578588120 source:c:\users\andreea\downloads\tema4\tema4\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+
+1578771850 source:c:\users\andreea\desktop\tema4\tema4\main.cpp
+	<iostream>
+	<fstream>
+
